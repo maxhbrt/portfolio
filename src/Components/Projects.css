@@ -1,0 +1,114 @@
+.projects-whole{
+  
+ 
+  display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: space-between;
+	align-items: stretch;
+	align-content: stretch;
+        width: 100vw;
+        height: 100vh;
+        overscroll-behavior: none;
+   
+}
+.projects-back{
+    background:linear-gradient(rgba(0, 0, 0, 0.351), rgba(0, 0, 0, 0.372)), url('./sand.jpg');
+  width: 73vw;
+  height:fit-content;
+  
+  background-size: cover; /* or contain depending on what you want */
+  background-position: center center;
+  background-repeat: no-repeat;
+  text-align:left;
+  /* margin:auto; */
+  padding:0;
+  font-family: 'Raleway', sans-serif;
+  font-size: 50px;
+  color: bisque;
+  display: flex;
+	flex-direction: column;
+	flex-wrap: nowrap;
+	justify-content: space-around;
+	align-items: stretch;
+  align-content: stretch;
+  /* overflow: scroll ; */
+}
+.single-project{
+    width: 100%;
+    height: 80vh;
+    border-bottom: solid;
+    border-color: bisque;
+}
+.project-title{
+    padding-left: 10px;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 25px;
+    height: 7vh;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: center;
+    align-content: space-around;
+}
+.fm-image{
+  height: 200px;
+  width: 350px;
+}
+
+.fm-container{
+ 
+  display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: space-around;
+	align-items: center;
+	align-content: space-around;
+  width: 100%;
+  height: 87%;
+}
+/* .sb{
+  height: fit-content;
+  width: fit-content;
+} */
+.project-about{
+  display: flex;
+	flex-direction: column;
+	flex-wrap: nowrap;
+	justify-content: space-around;
+	align-items: center;
+	align-content: space-around;
+  width: 40%;
+  height: 85%;
+}
+.pics{
+  display: flex;
+	flex-direction: column;
+	flex-wrap: nowrap;
+	justify-content: space-around;
+	align-items: center;
+	align-content: space-around;
+  /* width: 56%; */
+  height: 100%;
+}
+p{
+font-size: 23px;
+line-height: 120%;
+
+}
+.project-detail{
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 19px;
+  line-height: 200%;
+  color: white;
+}
+.live-link{
+  margin-top: 10px;
+  font-size: 20px;
+  color: bisque;
+  text-decoration: none;
+}
+.live-link:hover{
+  color:pink;
+}
