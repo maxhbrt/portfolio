@@ -27,7 +27,7 @@ class About extends Component{
                                 I have a passion for learning and creating. 
                             </p>
                             <p className="bottom-about">
-                                I took my first coding class while completing my associates degree in computer tech. and immedietly fell in love.
+                                I took my first coding class while completing my associates degree in computer tech. and immediately fell in love.
                                 I had been a barista for almost ten years before deciding to switch careers. 
                             </p>
                                 <p className="bottom-about">
@@ -35,7 +35,7 @@ class About extends Component{
                                 that are applicaple in any field of work.  
                                 </p>
                                 <p className="bottom-about">
-                                    To take my skills to the next level, I completed DevMountain's immersive web development coding bootcamp and flourished into the developer I am today.
+                                    To take my development skills to the next level, I completed DevMountain's immersive web development coding bootcamp and flourished into the developer I am today.
                                 </p>
                         </div>
                         <div className="end-about">
