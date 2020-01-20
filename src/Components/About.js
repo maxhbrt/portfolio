@@ -23,19 +23,16 @@ class About extends Component{
                     <div className="bottom">
                         <div className="about-me">
                             <p className="top-about">
-                                I'm web developer specializing in React, Nodejs, and PostgreSQL. 
-                                I have a passion for learning and creating. 
+                                I am a web developer specializing in React, Nodejs, and PostgreSQL. 
+                                My passion for all things web grew through many years of digital music production.
                             </p>
                             <p className="bottom-about">
-                                I took my first coding class while completing my associates degree in computer tech. and immediately fell in love.
-                                I had been a barista for almost ten years before deciding to switch careers. 
+                                For almost ten years I worked as a barista before deciding to pursue my aspirations within coding and development. 
+                                While completing my degree in computer technology I took a class in Python and immediately knew I needed to fully commit to learning more.
+                                After graduating, I signed up for a coding bootcamp and never looked back.
                             </p>
                                 <p className="bottom-about">
-                                During my time as a barista I developed interpersonal, communication and leadership skills
-                                that are applicaple in any field of work.  
-                                </p>
-                                <p className="bottom-about">
-                                    To take my development skills to the next level, I completed DevMountains immersive web development coding bootcamp and flourished into the developer I am today.
+                                I am currently working on web applications to help local farmers connect with restaurants through user friendly order forms and thoughtfully curated websites. 
                                 </p>
                         </div>
                         <div className="end-about">
