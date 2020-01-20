@@ -16,8 +16,8 @@ class About extends Component{
                 </div>
                 <div className="about-back">
                     <div className="top" >
-                    <img className="insta" src={Bike}/>
                     <img className="insta" src={Dev}/>
+                    <img className="insta" src={Bike}/>
                     <img className="insta" src={Coffee}/>
                     </div>
                     <div className="bottom">
