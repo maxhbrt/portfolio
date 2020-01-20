@@ -43,7 +43,7 @@
 .project-title{
     padding-left: 10px;
     font-family: 'Ubuntu', sans-serif;
-    font-size: 25px;
+    font-size: 33px;
     height: 7vh;
     display: flex;
     flex-direction: row;
@@ -93,22 +93,23 @@
   height: 100%;
 }
 p{
-font-size: 23px;
+font-size: 30px;
 line-height: 120%;
 
 }
 .project-detail{
   font-family: 'Ubuntu', sans-serif;
-  font-size: 19px;
+  font-size: 24px;
   line-height: 200%;
   color: white;
 }
 .live-link{
   margin-top: 10px;
-  font-size: 20px;
+  font-size: 27px;
   color: bisque;
   text-decoration: none;
 }
 .live-link:hover{
   color:pink;
+  font-size: 29px;
 }
