@@ -11,7 +11,7 @@ class Sidebar extends Component {
       <div className="side-bar-l">
         <div>
           <Link to="/">
-            <img className="me" src={me} width="100px" height="100px" />
+            <img className="me" src={me} width="200px" height="200px" />
           </Link>
         </div>
         <div className="side-title">
