@@ -33,7 +33,11 @@ class Sidebar extends Component {
               </Link>
             </li>
 
-            <li className="list-items">About</li>
+            <li className="list-items">
+                <Link to="/about" style={{ textDecoration: "none" }} >
+              About
+              </Link>
+              </li>
           </ul>
         </div>
         <div>
