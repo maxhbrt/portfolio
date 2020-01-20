@@ -35,7 +35,7 @@ class About extends Component{
                                 that are applicaple in any field of work.  
                                 </p>
                                 <p className="bottom-about">
-                                    To take my development skills to the next level, I completed DevMountain's immersive web development coding bootcamp and flourished into the developer I am today.
+                                    To take my development skills to the next level, I completed DevMountains immersive web development coding bootcamp and flourished into the developer I am today.
                                 </p>
                         </div>
                         <div className="end-about">
