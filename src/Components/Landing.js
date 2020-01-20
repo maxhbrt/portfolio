@@ -32,19 +32,19 @@ class Landing extends Component{
             <div className="tech-container">
             <div className="all-icons">
                      <div className="tech-icons"style={{color: "white"}}>
-          <FaReact size={50}/>
-          <FaNode size={60}/>
-          <DiPostgresql size={60}/>
+          <FaReact size={60}/>
+          <FaNode size={70}/>
+          <DiPostgresql size={70}/>
           </div>
           <div className="middle-icons"style={{color: "white"}}>
-          <FaHtml5 size={38}/>
-          <FaCss3 size={35}/>
+          <FaHtml5 size={48}/>
+          <FaCss3 size={45}/>
          
           </div>
           <div className="tech-icons"style={{color: "white"}}>
-          <FaGit size={45}/>
-          <IoLogoJavascript size={43}/>
-          <FaSass size={50}/>
+          <FaGit size={55}/>
+          <IoLogoJavascript size={53}/>
+          <FaSass size={60}/>
           </div>
           </div>
           </div>

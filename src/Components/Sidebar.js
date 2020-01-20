@@ -45,13 +45,13 @@ class Sidebar extends Component {
         </div>
         <div className="contact-icons" style={{ color: "white" }}>
           <a href="https://github.com/maxhbrt" target="_blank">
-            <FaGithub size={25} />
+            <FaGithub size={35} />
           </a>
           <a href="https://www.linkedin.com/in/max-hebert" target="_blank">
-            <FaLinkedin size={25} />
+            <FaLinkedin size={35} />
           </a>
           <a href="mailto:maxhbrt@gmail.com" target="_blank">
-            <MdEmail size={29} />
+            <MdEmail size={39} />
           </a>
         </div>
       </div>
