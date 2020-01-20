@@ -99,17 +99,17 @@ line-height: 120%;
 }
 .project-detail{
   font-family: 'Ubuntu', sans-serif;
-  font-size: 24px;
+  font-size: 21px;
   line-height: 200%;
   color: white;
 }
 .live-link{
   margin-top: 10px;
-  font-size: 27px;
+  font-size: 23px;
   color: bisque;
   text-decoration: none;
 }
 .live-link:hover{
   color:pink;
-  font-size: 29px;
+  font-size: 24px;
 }
