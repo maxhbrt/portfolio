@@ -113,3 +113,26 @@ line-height: 120%;
   color:pink;
   font-size: 19px;
 }
+@media(max-width:700px){
+  .fm-container{
+    flex-direction: column;
+
+  }
+  .single-project{
+    height: 150vh;
+  }
+  .fm-image{
+    height: 150px;
+    width: 250px;
+  }
+  p{
+    line-height: normal;
+    width: 250px;
+  }
+  .project-detail{
+    width: 250px;
+  }
+  .pics{
+    height: 75%;
+  }
+}

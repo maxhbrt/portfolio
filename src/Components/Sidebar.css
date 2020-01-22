@@ -159,3 +159,13 @@ li:hover{
     font-size: 22px;
     cursor: pointer;
 }
+
+@media(max-width:700px){
+  .dev-title{
+    font-size: 12px;
+  }
+  .me{
+    height: 80px;
+    width: 80px;
+  }
+}
