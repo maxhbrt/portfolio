@@ -45,7 +45,7 @@ h1{
     border-radius: 50%;
   }
   .full-stack{
-    font-size: 20px;
+    font-size: 15px;
     text-align: left;
     color: pink;
     margin-top: 10px;
@@ -55,7 +55,7 @@ h1{
   .name-title{
   color: white;
   font-size: 10px;
-    margin-top: 22px;
+    margin-top: 19px;
   }
   .top-bar{
     height: 50vh;
@@ -106,7 +106,7 @@ h1{
     font-family: 'Ubuntu', sans-serif;
       padding-left: 15px;
       color: white;
-      font-size: 30px;
+      font-size: 20px;
       display: flex;
       flex-direction: column;
       flex-wrap: nowrap;
@@ -156,6 +156,6 @@ a:hover{
 }
 li:hover{
     color: bisque;
-    font-size: 32px;
+    font-size: 22px;
     cursor: pointer;
 }
