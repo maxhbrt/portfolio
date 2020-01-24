@@ -21,8 +21,8 @@ class Projects extends Component {
             </div>
             <div className="fm-container">
               <div className="pics">
-            <img className="fm-image" src="https://res.cloudinary.com/dl79laoab/image/upload/v1579829649/Portfolio/Screen_Shot_2019-12-19_at_10.05.55_AM_xwnsu8.png"/>
-            <img className="fm-image" src="https://res.cloudinary.com/dl79laoab/image/upload/v1579829673/Portfolio/screencapture-localhost-3000-2019-12-13-12_15_53_mpo1z9.png"/>
+            <img className="fm-image" src="https://res.cloudinary.com/dl79laoab/image/upload/v1579834748/Portfolio/Screen_Shot_2019-12-19_at_10.05.55_AM_a9ashs.jpg"/>
+            <img className="fm-image" src="https://res.cloudinary.com/dl79laoab/image/upload/v1579834636/Portfolio/screencapture-localhost-3000-2019-12-13-12_15_53_lcquwo.jpg"/>
             </div>
             <div className="project-about">
               <p >web application for finding and purchasing produce from local farms in Flagstaff, AZ</p>
@@ -36,7 +36,7 @@ class Projects extends Component {
               <div className="fm-container">
                 <div className="pics">
                 <img className="fm-image" src="https://res.cloudinary.com/dl79laoab/image/upload/v1579829639/Portfolio/tidm_okeuex.jpg"/>
-                <img className="fm-image" src="https://res.cloudinary.com/dl79laoab/image/upload/v1579829609/Portfolio/Screen_Shot_2020-01-18_at_5.47.27_PM_wno9sw.png"/>
+                <img className="fm-image" src="https://res.cloudinary.com/dl79laoab/image/upload/v1579834848/Portfolio/Screen_Shot_2020-01-18_at_5.47.27_PM_bieymy.jpg"/>
                 </div>
                 <div className="project-about">
                   <p>web applications for DevMountain students to display personal projects, connect, and receive feedback</p>
