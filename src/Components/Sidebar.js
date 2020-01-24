@@ -11,7 +11,7 @@ class Sidebar extends Component {
       <div className="side-bar-l">
         <div>
           <Link to="/">
-            <img className="me" src="https://res.cloudinary.com/dl79laoab/image/upload/v1579830986/Portfolio/NICK9344-Edit-3_pqigih.jpg" width="125px" height="125px" />
+            <img className="me" src="https://res.cloudinary.com/dl79laoab/image/upload/v1579832506/Portfolio/nick_pic_malxcg.jpg" width="125px" height="125px" />
           </Link>
         </div>
         <div className="side-title">

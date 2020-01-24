@@ -16,9 +16,9 @@ class About extends Component{
                 </div>
                 <div className="about-back">
                     <div className="top" >
-                    <img className="insta" src={Dev}/>
-                    <img className="insta" src={Bike}/>
-                    <img className="insta" src={Coffee}/>
+                    <img className="insta" src="https://res.cloudinary.com/dl79laoab/image/upload/v1579829558/Portfolio/75426198_183631986156896_9038551036718974548_n_r8r2ek.jpg"/>
+                    <img className="insta" src="https://res.cloudinary.com/dl79laoab/image/upload/v1579829561/Portfolio/31198371_1890294211262083_7517874118847365120_n_dns10u.jpg"/>
+                    <img className="insta" src="https://res.cloudinary.com/dl79laoab/image/upload/v1579829562/Portfolio/12976151_1701991580050638_1815517527_n_j16qgp.jpg"/>
                     </div>
                     <div className="bottom">
                         <div className="about-me">
