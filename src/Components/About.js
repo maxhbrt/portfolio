@@ -2,7 +2,7 @@ import React, {Component} from 'react';
 import Sidebar from './Sidebar';
 import './About.css';
 import Bike from './bike.jpg';
-import Dev from './dev.jpg';
+import Dev from './dvmtncompressed.jpg';
 import Coffee from './coffee.jpg';
 
 
